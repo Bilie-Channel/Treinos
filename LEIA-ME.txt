@@ -1,0 +1,10 @@
+MEU TREINO PWA — ANDROID
+
+1. Publique todos os arquivos desta pasta em um site HTTPS (por exemplo, GitHub Pages ou Netlify).
+2. Abra o endereço no Chrome do Android.
+3. Menu ⋮ > Adicionar à tela inicial > Instalar aplicativo (ou use o botão Instalar).
+4. Abra uma vez com internet para armazenar imagens e recursos; depois funciona offline.
+5. Os registros são salvos no armazenamento local do navegador/aplicativo. Exporte backups JSON regularmente.
+
+IMPORTANTE: abrir index.html diretamente como arquivo não habilita instalação PWA nem service worker.
+As imagens são referências ilustrativas, não substituem supervisão profissional.
